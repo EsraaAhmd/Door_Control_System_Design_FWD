@@ -1,0 +1,12 @@
+For ECU 1:
+
+1-Make the layered architecture
+2-Specify ECU components and modules
+3-Provide full detailed APIs for each module as well as a detailed description for the used typedefs
+4-Prepare your folder structure according to the previous points
+For ECU 2:
+
+1-Make the layered architecture
+2-Specify ECU components and modules
+3-Provide full detailed APIs for each module as well as a detailed description for the used typedefs
+4-Prepare your folder structure according to the previous points
